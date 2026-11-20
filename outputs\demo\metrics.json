@@ -1,0 +1,10 @@
+{
+  "mean_imputation": {
+    "auroc": 0.7652281890017738,
+    "brier_score": 0.17440935993965714
+  },
+  "missingness_aware": {
+    "auroc": 0.7668472826963394,
+    "brier_score": 0.17382670476759593
+  }
+}
